@@ -3,21 +3,363 @@
 
     <item
         is-multidex="true"
-        jar="C:\Users\oreid\Documents\Git\VirtualKitchen\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jar="C:\Users\Bdour\.android\build-cache\179da29a0ccf4c119b6ff5f9079c89fc3966ed2c\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="4d0d5ddbe693e1ed4b0f5a52561f48bcf8e2605f">
-        <dex dex="C:\Users\oreid\Documents\Git\VirtualKitchen\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_254c5c732f178f1ecb5cfb967fea000c3ae25445\classes.dex" />
+        sha1="39907d5c8f5902fffef30160ca7447c93b82405c">
+        <dex dex="C:\Users\Bdour\Documents\GitHub\VirtualKitchen\VirtualKitchen\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2d8ddb747eaf63366983ea8b3b3c97674243612b\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\oreid\Documents\Git\VirtualKitchen\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jar="C:\Users\Bdour\.android\build-cache\a42e9a3911503ba37e9e7b4bc688caba211cbd96\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="028f8255cb977b29cdffbfcf05caa0459686120c">
+        <dex dex="C:\Users\Bdour\Documents\GitHub\VirtualKitchen\VirtualKitchen\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_11f0b6f06dc4489c942b12795151bcc4c23e9c1f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bdour\.android\build-cache\c2cdfe9bd0145066e44ae8a1907c28fea93b1c64\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="C:\Users\Bdour\Documents\GitHub\VirtualKitchen\VirtualKitchen\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_70eb976db03c32722ac03a2c237c558b153697f8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bdour\.android\build-cache\12ad2f9f3cd0d2a811b7ece355960c2c15ac044a\output\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="C:\Users\Bdour\Documents\GitHub\VirtualKitchen\VirtualKitchen\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_d2b6e79deb25fa72aff801841b4c9cd250c0f5fb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bdour\.android\build-cache\d6945e006e5a2e00393fc1f8ed6e942f3b221359\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ba6aa5e69ef31dee57208125323cee958fc67565">
+        <dex dex="C:\Users\Bdour\Documents\GitHub\VirtualKitchen\VirtualKitchen\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_32a45d988b4319ec39d62b8499b5736ce68092d1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bdour\.android\build-cache\4c3d05b183953142a506137ffc536112bddc59b2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ffc15e965a9e8c28f24455eedd4cac215c45d1fc">
+        <dex dex="C:\Users\Bdour\Documents\GitHub\VirtualKitchen\VirtualKitchen\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_581efb862742915fa8e57160e3f1bff2ab96828e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bdour\.android\build-cache\54e811ce61eab25dba2c202eaee353e9b319d0da\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c14f0c89f28cf782e42581ab0aba5f63af39b3d2">
+        <dex dex="C:\Users\Bdour\Documents\GitHub\VirtualKitchen\VirtualKitchen\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_df534b9b3e37e6b79d872b566e2692d39dbf8e9b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bdour\.android\build-cache\615e1175b7a8e45d9c3772ae90609f89a4949a2a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09cf6aa1390f95157e8295d02be7868f568825fc">
+        <dex dex="C:\Users\Bdour\Documents\GitHub\VirtualKitchen\VirtualKitchen\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4dc9c3d08972fb27ca31c2b05ce10f2a29c0bea7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bdour\.android\build-cache\228842638cb49bab70c77eb272442101dbdb6f2d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="408a599ac77cd17fe8e8919326bec617b3d005bd">
+        <dex dex="C:\Users\Bdour\Documents\GitHub\VirtualKitchen\VirtualKitchen\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7b083ee25464780c952527565bd7fdf6d208d028\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bdour\.android\build-cache\b7398979a0fd5f24cd9d1fb84d2291e07b938092\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e871881b36b32e6bfd271a830c6eeb54ff0fc185">
+        <dex dex="C:\Users\Bdour\Documents\GitHub\VirtualKitchen\VirtualKitchen\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e87c4a4ededfc58e41bdf356970837fb398465e6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bdour\.android\build-cache\b6ff30e38d06137dbfa9b5a478d0d378d8f1e7ef\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f3e51e9c5233b8897f61e08a6a27bc36283c2724">
+        <dex dex="C:\Users\Bdour\Documents\GitHub\VirtualKitchen\VirtualKitchen\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_751ff61a7c4275ee1374d6a1c4b80a3158d5d246\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bdour\Documents\GitHub\VirtualKitchen\VirtualKitchen\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
-        <dex dex="C:\Users\oreid\Documents\Git\VirtualKitchen\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_1785fa17966beace25c52ef5c683ca7e66c89f71\classes.dex" />
+        <dex dex="C:\Users\Bdour\Documents\GitHub\VirtualKitchen\VirtualKitchen\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_808d4ba6cfed8f982a2b18d0c4785d6a502aea01\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bdour\.android\build-cache\4e1eb204d8c758609b4f8909d8135d797de3c306\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="971509bbe30bb7b971fc1c49d7b23d0d818830ac">
+        <dex dex="C:\Users\Bdour\Documents\GitHub\VirtualKitchen\VirtualKitchen\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2cd2a16b98578a8efd2e2d0cca5bb929c23d9587\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bdour\.android\build-cache\40b5bb49395d7d5a996ce1bc4a3e9985787151d0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dd39827d2067497e60e21da48a7926000b6d4b0c">
+        <dex dex="C:\Users\Bdour\Documents\GitHub\VirtualKitchen\VirtualKitchen\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_56eb40a1cb90c5c2ee2827840e827724ea52207d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bdour\.android\build-cache\1abacadbaa4440619a71d3b26b83356b31890195\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="771267c5b0c7a5b348d3205dcfa1f871af7e0177">
+        <dex dex="C:\Users\Bdour\Documents\GitHub\VirtualKitchen\VirtualKitchen\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c3fd644791d51a3b037a6cb38fbfdaaeed2b05b3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bdour\.android\build-cache\a41a9b81b5ba458909ba2266f094b437822bf898\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f23ad0f8e58713ff4b55f61c0bbde3830378347c">
+        <dex dex="C:\Users\Bdour\Documents\GitHub\VirtualKitchen\VirtualKitchen\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_21147f668cb928ba1f5db8b4dba147d115495ce7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bdour\.android\build-cache\b4b0a3b394a52e19962b21ced6e533dd9c55980d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
+        <dex dex="C:\Users\Bdour\Documents\GitHub\VirtualKitchen\VirtualKitchen\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_809bc3e70cf04b1ffd86842fb715fad9283d1b49\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bdour\.android\build-cache\d20a933b3898bd60117659469e3ed581b3a672c3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1d193729baf37df3d902a423291423a0df7e3779">
+        <dex dex="C:\Users\Bdour\Documents\GitHub\VirtualKitchen\VirtualKitchen\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d8c06a3f25c8cbfe9a534fd4793eda1339fb4d56\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bdour\.android\build-cache\630eba92af2244b1427c7ad7d87f537b61370889\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6bb5d347ebc0c6ef3c83a905222a688da5d2f7b4">
+        <dex dex="C:\Users\Bdour\Documents\GitHub\VirtualKitchen\VirtualKitchen\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_501106e3275a64fd72c5ae94530d830f561347ef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bdour\.android\build-cache\e2e72d244282640849ed95a0942b7a526c170dbc\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8308ed003522a2ee8958311afcc4cfd0470377cd">
+        <dex dex="C:\Users\Bdour\Documents\GitHub\VirtualKitchen\VirtualKitchen\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3d1fe89bb27ccf03e6cd2463d9e743796b9a5122\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bdour\.android\build-cache\a46d5954a91529ede8e24fdaab3284c19551952c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c6e1f361e9d61aece9dac39b77fcc98a337a144d">
+        <dex dex="C:\Users\Bdour\Documents\GitHub\VirtualKitchen\VirtualKitchen\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1cfec4929ed2b4b6cda153c47fac91a9ee2e4112\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bdour\.android\build-cache\b29b4978c34dc2a78c356fd3aa7e358b40002758\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1e11c68fec92a17c84dd8d1dd80e74c4e67b12e2">
+        <dex dex="C:\Users\Bdour\Documents\GitHub\VirtualKitchen\VirtualKitchen\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_921fb02e2119cc437196898ec9fd11f59f16b6cc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bdour\.android\build-cache\4107a684ed1c97cc837044fcf33ce0cb082e68f9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
+        <dex dex="C:\Users\Bdour\Documents\GitHub\VirtualKitchen\VirtualKitchen\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2fb26afaeb8872127b79f5a123eb4f055ccc44ca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bdour\.android\build-cache\cd0b48a6e9b2781c839be7030b79181d01f2979a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="C:\Users\Bdour\Documents\GitHub\VirtualKitchen\VirtualKitchen\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ef8e09dc4649d0b0dcb53781fae177c9ba0028e8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bdour\.android\build-cache\9fbb13f74a6d63aa320e2368008562686c6e119a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="92c871a22463a247e8a77a9f3fd231c278788c4a">
+        <dex dex="C:\Users\Bdour\Documents\GitHub\VirtualKitchen\VirtualKitchen\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ad2a03c4bb72767fbc36f485a013219bb9f3070c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bdour\.android\build-cache\89d63e567d6727c8f6cdedb2a7d62492a6f5e99b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="de29a39f9260f88151b1ef453140e71c76b6c415">
+        <dex dex="C:\Users\Bdour\Documents\GitHub\VirtualKitchen\VirtualKitchen\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a28bb1a330931ef11a58a634a0c316317b5338ef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bdour\.android\build-cache\0bb1fd20184efe4ec5df8c9b920e42533e7e6d30\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b1df8fa3d372a27e4e969ce00b00689ee1eed031">
+        <dex dex="C:\Users\Bdour\Documents\GitHub\VirtualKitchen\VirtualKitchen\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0c76e6ce0cb20c4ed30448ccb80995e8d174e205\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bdour\.android\build-cache\871ffdacc4f99211b4a3cdfe48ed1052eb1bef80\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4385ccc0a88b33d182a836eadb47be55c8eb1107">
+        <dex dex="C:\Users\Bdour\Documents\GitHub\VirtualKitchen\VirtualKitchen\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ee45ef7fbff365602fa0582d73bf7c8bffd55fd6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bdour\.android\build-cache\003460d43c15f028a1e7e3da933003529896faa7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2d5d113b0352ab60946fc44c518cf68fd26cbb79">
+        <dex dex="C:\Users\Bdour\Documents\GitHub\VirtualKitchen\VirtualKitchen\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_72aade4f9d8b57ffcc8897fcc13ee23c9b68ae3e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bdour\.android\build-cache\92b5245b1e4de1f48add7f4842012d56917d0704\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="df1cb17511aabbb63264a0024949d1e42502a512">
+        <dex dex="C:\Users\Bdour\Documents\GitHub\VirtualKitchen\VirtualKitchen\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e701cbaf8f85fe8327620b3703ef10fc98c18062\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bdour\.android\build-cache\e521ed4e52cd9be4c65690fc6e328c9f728abb16\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4c829ff0ccfecb28a999ee46d9e75948dfc777a4">
+        <dex dex="C:\Users\Bdour\Documents\GitHub\VirtualKitchen\VirtualKitchen\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_558c9ed022030f65e73ce5bbbcc823f8af8986cd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bdour\.android\build-cache\92bc0b21092326289ae4fc3100e061abe9e6d051\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
+        <dex dex="C:\Users\Bdour\Documents\GitHub\VirtualKitchen\VirtualKitchen\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5f8d99f6044d03a153b53b6f227243f46600420b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bdour\.android\build-cache\9ddba28b21708022672af8f10f6f2e489bc41071\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ae80d328a8548b4610ead6c624bab8c6a6984f5b">
+        <dex dex="C:\Users\Bdour\Documents\GitHub\VirtualKitchen\VirtualKitchen\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2b0fa8ae79e2af50508119b30f45f630f5d45ef2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bdour\.android\build-cache\d7006bfcfd09fdf14c2d8e9b4787740a8d6af508\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f6cf557be4dbd0282ea2388633e5378634423226">
+        <dex dex="C:\Users\Bdour\Documents\GitHub\VirtualKitchen\VirtualKitchen\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_49621ff04dd5c9895ac7b21c91c5b11fbf2b6150\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bdour\.android\build-cache\9546ce0e8dbf0cef8ba0397d417a8257ca5f5a84\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a48dc0b148059764d32500be558702d5ff932058">
+        <dex dex="C:\Users\Bdour\Documents\GitHub\VirtualKitchen\VirtualKitchen\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_56f0913e60dfbed3170602bb3f124739ea6c3a07\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bdour\.android\build-cache\12ad2f9f3cd0d2a811b7ece355960c2c15ac044a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="C:\Users\Bdour\Documents\GitHub\VirtualKitchen\VirtualKitchen\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7ab2f949bacfe683ce774032c8f5b30fa3dbf48d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bdour\Documents\GitHub\VirtualKitchen\VirtualKitchen\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c75074e3d8bc8f800f487a3cc075e347f6f9ce0a">
+        <dex dex="C:\Users\Bdour\Documents\GitHub\VirtualKitchen\VirtualKitchen\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_b35a19ce959532799ba9ed850683b0dde29be227\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bdour\.android\build-cache\770a2987397af8a2d91f3640b391a32956d08866\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="45305e6af414dab5aba6c3225081c2f15c3bdd1e">
+        <dex dex="C:\Users\Bdour\Documents\GitHub\VirtualKitchen\VirtualKitchen\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_444d16d83da84ebf982e650f9a3f51bd6c44a94e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bdour\.android\build-cache\f651544206781affc0ef550781efd11369e582a7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7a64bf6dc775198eed9db9468a133adf7dfe6562">
+        <dex dex="C:\Users\Bdour\Documents\GitHub\VirtualKitchen\VirtualKitchen\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_57c7a9ba165030b8782718e73521da1171ae9381\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bdour\.android\build-cache\8aebf079b5b664b4df2e993b0c0ce3d2730be35c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
+        <dex dex="C:\Users\Bdour\Documents\GitHub\VirtualKitchen\VirtualKitchen\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1efd10f3eb5bcba7a0935acadd1fab9b75b15f37\classes.dex" />
     </item>
 
 </items>
